@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url(boleback.png.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+    background-size: cover;
+    height: 30vh;
+    color: white;
+    text-shadow: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+l1{
+    margin: 0 10px 0 0;
+   }
+.menu-item img{ 
+    height: 20vh;
+    object-fit: cover;
+    border-radius: 50%;    
+}
